@@ -1,0 +1,36 @@
+.logo{
+    width: 200px;
+    height: 200px;
+    border: solid 2px blue;
+    border-radius: 10px;
+}
+.ABC{
+    background-color: rgb(171, 171, 142);
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly
+}
+
+.AB{
+    background-color: beige;
+}
+.header{
+    border: solid 2px black;
+    box-shadow: 0 2px 5px;
+    
+}
+.A{
+    font-size: x-large;
+    
+}
+.B{
+    font-size: x-large;
+    
+
+}
+.C{
+    font-size: x-large;
+    
+}
+
+
