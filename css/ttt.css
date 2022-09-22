@@ -1,0 +1,105 @@
+.logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: solid 2px black;
+    box-shadow: 0 2px 5px;    
+    margin-left: 50px;
+}
+
+.ABC{
+    background-color: rgb(171, 171, 142);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ABCDE {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.AB{
+    background-color: beige;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: solid 2px black;
+    box-shadow: 0 2px 5px;
+    background-color: rgb(113, 107, 107);
+
+    
+}
+
+.A{
+    font-size: x-large;
+    margin-right: 100px;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+    
+
+.B{
+    font-size: x-large;
+    margin-right: 100px;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+.C{
+    font-size: x-large;
+    margin-right: 100px;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+.suhag{
+    width: 300px;
+    height: 400px;
+    margin-left: 550px;
+    border: solid 1px black;
+}
+
+.bodyquemsou{
+    background-color: beige;
+}
+
+.Paragraf{
+ color: black;
+ font-size: large;
+ font-family: Arial, Helvetica, sans-serif;
+ font-style: oblique;
+}
+
+.bodyhobb{
+    background-color: beige;
+}
+
+.Paragraf2{
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+   }
+
+   .surf{
+    width: 300px;
+    height: 400px;
+    margin-left: 550px;
+    border: solid 1px black;
+}
+
+.bodycontato{
+    background-color: beige;
+}
+
+.contato1{
+    margin-right: 400px;
+}
